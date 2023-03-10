@@ -1,0 +1,20 @@
+#title_venta {
+  font-family: "Rampart One";
+}
+
+#vender {
+  animation-duration: 4s;
+  animation-name: slidein;
+  animation-iteration-count: infinite;
+}
+
+@keyframes slidein {
+  from {
+    /* font-size: 10%; */
+  }
+
+  /* to {
+    margin-left: 0%;
+    width: 100%;
+  } */
+}
